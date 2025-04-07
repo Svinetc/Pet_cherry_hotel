@@ -1,2 +1,2 @@
 # script
-print("End")
+print("End of time")
