@@ -4,7 +4,7 @@ def check_ip(string:str):
         res.append(i.lstrip('0'))
 
 
-    return all(map(lambda x : True if i.isdigit() and int(i)<=255 else False,res))
+    return all(map(lambda x : True if i.isdigit() and int(i)<=205 else False,res))
 
 
 
