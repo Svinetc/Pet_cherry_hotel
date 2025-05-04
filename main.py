@@ -1,3 +1,3 @@
 # script
-input("name")
+input("surname")
 print("End of time")
