@@ -1,6 +1,6 @@
 def check_ip(string:str):
     res =[]
-    for i in string.split('.'):
+    for i in string.split(','):
         res.append(i.lstrip('0'))
 
 
