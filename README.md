@@ -3,4 +3,4 @@ the ability to connect to sales channels
 one mark added
 set requirements
 make tests
-contribute
+contribute.
